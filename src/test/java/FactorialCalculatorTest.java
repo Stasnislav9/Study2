@@ -1,22 +1,20 @@
-import org.junit.*;
-
-import static org.junit.Assert.assertEquals;
+import org.testng.annotations.*;
+import static org.testng.Assert.*;
 
 public class FactorialCalculatorTest {
 
     @Test
-    public void testFactorailZero(){
-        assertEquals (1, FactorialCalculator.calculateFactorial(0));
+    public void testFactorialZero() {
+        assertEquals(FactorialCalculator.calculateFactorial(0), 1);
     }
 
     @Test
-    public void testFactorialOne(){
-        assertEquals(1, FactorialCalculator.calculateFactorial(1));
+    public void testFactorialFive() {
+        assertEquals(FactorialCalculator.calculateFactorial(5), 120);
     }
 
-    @Test
-    public void testFactorial(){
-        assertEquals(6,FactorialCalculator.calculateFactorial(3) );
+    @Test(expectedExceptions = IllegalArgumentException.class)
+    public void testFactorialNegative() {
+        FactorialCalculator.calculateFactorial(-5);
     }
-
 }
