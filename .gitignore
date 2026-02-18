@@ -1,0 +1,19 @@
+# Visual Studio
+.vs/
+.vsconfig
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+x86/
+build/
+[Bb]in/
+[Oo]bj/
+
+# Project-specific
+**/.vs/

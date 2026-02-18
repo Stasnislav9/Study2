@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="GroceryLoyalApp.MainPage">
+
+    <VerticalStackLayout Spacing="20" Padding="30" VerticalOptions="Center">
+
+        <Label Text="🥕 ПРОГРАММА ЛОЯЛЬНОСТИ" 
+               FontSize="22" 
+               FontAttributes="Bold" 
+               HorizontalOptions="Center"/>
+
+        <Label Text="Ваш любимый магазин всегда рядом" 
+               FontSize="14" 
+               TextColor="Gray" 
+               HorizontalOptions="Center"/>
+
+        <Button Text="📞 Позвонить в магазин" 
+                BackgroundColor="#4CAF50" 
+                TextColor="White" 
+                FontSize="18"
+                CornerRadius="10"
+                Margin="0,20,0,0"
+                Clicked="OnCallClicked"/>
+
+        <Button Text="📍 Показать на карте" 
+                BackgroundColor="#2196F3" 
+                TextColor="White" 
+                FontSize="18"
+                CornerRadius="10"
+                Clicked="OnLocationClicked"/>
+
+        <Button Text="🎁 Спецпредложение" 
+                BackgroundColor="#FF9800" 
+                TextColor="White" 
+                FontSize="18"
+                CornerRadius="10"
+                Clicked="OnOfferClicked"/>
+
+        <Label x:Name="StatusLabel" 
+               Text="Готов к работе" 
+               FontSize="14"
+               HorizontalOptions="Center"
+               Margin="0,20,0,0"/>
+
+    </VerticalStackLayout>
+
+</ContentPage>
