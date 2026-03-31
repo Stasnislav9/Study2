@@ -1,0 +1,194 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mauiprogram.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\app.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\weatherclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\weatherclient.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mainpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\converters\\weatherconditiontoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\converters\\weatherconditiontoimageconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\services\\weatherservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\models\\weatherdata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|c:\\users\\stasb\\source\\repos\\weatherclient\\weatherclient\\models\\weathertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{83A1DB29-B60E-44C7-8386-72BC0E962F13}|WeatherClient\\WeatherClient.csproj|solutionrelative:weatherclient\\models\\weathertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MauiProgram.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MauiProgram.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\MauiProgram.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MauiProgram.cs",
+              "RelativeToolTip": "WeatherClient\\MauiProgram.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:16:07.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\App.xaml.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml.cs",
+              "RelativeToolTip": "WeatherClient\\App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:15:38.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml",
+              "RelativeDocumentMoniker": "WeatherClient\\App.xaml",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\App.xaml",
+              "RelativeToolTip": "WeatherClient\\App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T17:15:12.037Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherClient",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "RelativeDocumentMoniker": "WeatherClient\\WeatherClient.csproj",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\WeatherClient.csproj",
+              "RelativeToolTip": "WeatherClient\\WeatherClient.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-31T17:12:45.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MainPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\MainPage.xaml.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml.cs",
+              "RelativeToolTip": "WeatherClient\\MainPage.xaml.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAgwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:11:48.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml",
+              "RelativeDocumentMoniker": "WeatherClient\\MainPage.xaml",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\MainPage.xaml",
+              "RelativeToolTip": "WeatherClient\\MainPage.xaml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwEEAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-03-31T17:11:13.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "WeatherConditionToImageConverter.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "RelativeToolTip": "WeatherClient\\Converters\\WeatherConditionToImageConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:10:18.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WeatherService.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Services\\WeatherService.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Services\\WeatherService.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Services\\WeatherService.cs",
+              "RelativeToolTip": "WeatherClient\\Services\\WeatherService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:10:02.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WeatherData.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherData.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Models\\WeatherData.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherData.cs",
+              "RelativeToolTip": "WeatherClient\\Models\\WeatherData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:09:38.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherType.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherType.cs",
+              "RelativeDocumentMoniker": "WeatherClient\\Models\\WeatherType.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\WeatherClient\\WeatherClient\\Models\\WeatherType.cs",
+              "RelativeToolTip": "WeatherClient\\Models\\WeatherType.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-31T17:09:14.575Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
