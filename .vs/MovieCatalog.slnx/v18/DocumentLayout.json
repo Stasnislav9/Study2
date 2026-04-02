@@ -1,0 +1,142 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\views\\movieslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\views\\movieslistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\views\\movieslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\views\\movieslistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\views\\moviedetailpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\views\\movieslistpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\views\\movieslistpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\views\\moviedetailpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\views\\moviedetailpage.xaml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\viewmodels\\movielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\viewmodels\\movielistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|c:\\users\\stasb\\source\\repos\\moviecatalog\\moviecatalog\\services\\moviedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE1D5EB8-D20E-399D-AD04-C31CB621819E}|MovieCatalog\\MovieCatalog.csproj|solutionrelative:moviecatalog\\services\\moviedataservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MovieListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\ViewModels\\MovieListViewModel.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\ViewModels\\MovieListViewModel.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\ViewModels\\MovieListViewModel.cs",
+              "RelativeToolTip": "MovieCatalog\\ViewModels\\MovieListViewModel.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:55:33.194Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MoviesListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml",
+              "RelativeDocumentMoniker": "MovieCatalog\\Views\\MoviesListPage.xaml",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml",
+              "RelativeToolTip": "MovieCatalog\\Views\\MoviesListPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T14:50:34.566Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MovieDetailPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Views\\MovieDetailPage.xaml.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MovieDetailPage.xaml.cs",
+              "RelativeToolTip": "MovieCatalog\\Views\\MovieDetailPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:49:48.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MoviesListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml",
+              "RelativeDocumentMoniker": "MovieCatalog\\Views\\MoviesListPage.xaml",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml",
+              "RelativeToolTip": "MovieCatalog\\Views\\MoviesListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T14:48:42.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MovieDetailPage.xaml",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MovieDetailPage.xaml",
+              "RelativeDocumentMoniker": "MovieCatalog\\Views\\MovieDetailPage.xaml",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MovieDetailPage.xaml",
+              "RelativeToolTip": "MovieCatalog\\Views\\MovieDetailPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2026-04-02T14:47:27.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoviesListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Views\\MoviesListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Views\\MoviesListPage.xaml.cs",
+              "RelativeToolTip": "MovieCatalog\\Views\\MoviesListPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:30:46.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "MovieDataService.cs",
+              "DocumentMoniker": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Services\\MovieDataService.cs",
+              "RelativeDocumentMoniker": "MovieCatalog\\Services\\MovieDataService.cs",
+              "ToolTip": "C:\\Users\\stasb\\source\\repos\\MovieCatalog\\MovieCatalog\\Services\\MovieDataService.cs",
+              "RelativeToolTip": "MovieCatalog\\Services\\MovieDataService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-02T14:28:02.266Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
