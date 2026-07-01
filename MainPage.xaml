@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="People.Views.MainPage"
+             Title="People">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="Add a Person" FontSize="24" FontAttributes="Bold" />
+
+        <HorizontalStackLayout Spacing="10">
+            <Entry x:Name="nameEntry" Placeholder="Enter name" WidthRequest="200" />
+            <Button Text="Add Person" x:Name="addButton" Clicked="OnAddPerson" />
+        </HorizontalStackLayout>
+
+        <Label x:Name="statusLabel" Text="" />
+
+        <Button Text="Get All People" x:Name="getAllButton" Clicked="OnGetAllPeople" />
+
+        <CollectionView x:Name="peopleCollectionView" HeightRequest="300">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                        </Grid.ColumnDefinitions>
+                        <Label Text="{Binding Id}" Grid.Column="0" WidthRequest="50" />
+                        <Label Text="{Binding Name}" Grid.Column="1" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>
