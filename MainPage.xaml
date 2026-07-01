@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="TodoList.Views.MainPage"
+             Title="Todo List">
+
+    <VerticalStackLayout Padding="20" Spacing="10">
+        <Label Text="Todo List" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+
+        <Button Text="Load Todos" x:Name="loadButton" Clicked="OnLoadButtonClicked" />
+
+        <Label x:Name="statusLabel" Text="Press Load to fetch todos" />
+
+        <CollectionView x:Name="todoCollectionView" HeightRequest="400">
+            <CollectionView.ItemTemplate>
+                <DataTemplate>
+                    <Grid Padding="10">
+                        <Grid.ColumnDefinitions>
+                            <ColumnDefinition Width="Auto" />
+                            <ColumnDefinition Width="*" />
+                            <ColumnDefinition Width="Auto" />
+                        </Grid.ColumnDefinitions>
+                        <CheckBox Grid.Column="0" IsChecked="{Binding Done}" />
+                        <Label Grid.Column="1" Text="{Binding Name}" VerticalOptions="Center" />
+                        <Button Grid.Column="2" Text="Delete" Clicked="OnDeleteButtonClicked" />
+                    </Grid>
+                </DataTemplate>
+            </CollectionView.ItemTemplate>
+        </CollectionView>
+    </VerticalStackLayout>
+</ContentPage>
