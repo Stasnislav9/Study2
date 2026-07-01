@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Astronomy.Pages.SunrisePage"
+             Title="Sunrise">
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="☀️ Sunrise &amp; Sunset" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+        <Label Text="Today's Sunrise: 06:00 AM" FontSize="18" />
+        <Label Text="Today's Sunset: 08:30 PM" FontSize="18" />
+        <Image Source="sun.png" HeightRequest="200" WidthRequest="200" HorizontalOptions="Center" />
+        <Label Text="The Sun is the star at the center of our Solar System." FontSize="16" />
+    </VerticalStackLayout>
+</ContentPage>

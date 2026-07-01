@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Astronomy.Pages.MoonPhasePage"
+             Title="Moon Phase">
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="🌙 Moon Phases" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+        <Label Text="Current Moon Phase: New Moon" FontSize="18" />
+        <Image Source="moon.png" HeightRequest="200" WidthRequest="200" HorizontalOptions="Center" />
+        <Label Text="The Moon is a natural satellite of the Earth." FontSize="16" />
+        <Label Text="It orbits the Earth every 27.3 days." FontSize="16" />
+    </VerticalStackLayout>
+</ContentPage>

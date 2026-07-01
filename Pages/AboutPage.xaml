@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Astronomy.Pages.AboutPage"
+             Title="About">
+    <VerticalStackLayout Padding="20" Spacing="15">
+        <Label Text="ℹ️ About Astronomy App" FontSize="24" FontAttributes="Bold" HorizontalOptions="Center" />
+        <Label Text="This app provides information about astronomical phenomena." FontSize="18" />
+        <Label Text="Features:" FontSize="18" FontAttributes="Bold" />
+        <Label Text="• Moon Phases" FontSize="16" />
+        <Label Text="• Sunrise &amp; Sunset times" FontSize="16" />
+        <Label Text="• Interesting facts about space" FontSize="16" />
+        <Image Source="question.png" HeightRequest="150" WidthRequest="150" HorizontalOptions="Center" />
+        <Label Text="Version 1.0" FontSize="16" HorizontalOptions="Center" />
+    </VerticalStackLayout>
+</ContentPage>
